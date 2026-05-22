@@ -22,7 +22,7 @@ python generate.py
 ## Тесты
 
 ```bash
-pytest tests/ -v
+python -m pytest tests/ -v
 ```
 
 Все 54 теста проходят успешно.
