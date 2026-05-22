@@ -1,4 +1,4 @@
-# Impulse test project — BTS Artifact Generator
+# Импульс тестовое задание — BTS Artifact Generator
 
 Генератор артефактов для информационной модели базовой станции (BTS).
 
